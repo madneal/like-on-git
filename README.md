@@ -15,3 +15,4 @@ A collection of links you like.
 
 ### April 7, 2017
 - [Options | Like on Git](chrome-extension://fbkngleiiccokoifohhjhlagkejlphkj/options.html) 
+- [扩展程序](chrome://extensions/) 
