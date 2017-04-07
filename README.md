@@ -12,3 +12,6 @@ A collection of links you like.
 
 ### April 6, 2017
 - [Transport 30 free icons (SVG, EPS, PSD, PNG files)](http://www.flaticon.com/packs/transport-9) 
+
+### April 7, 2017
+- [Options | Like on Git](chrome-extension://fbkngleiiccokoifohhjhlagkejlphkj/options.html) 
