@@ -16,3 +16,6 @@ A collection of links you like.
 ### April 7, 2017
 - [Options | Like on Git](chrome-extension://fbkngleiiccokoifohhjhlagkejlphkj/options.html) 
 - [扩展程序](chrome://extensions/) 
+
+### April 8, 2017
+- [Chrome帮助](https://support.google.com/chrome/?p=help&ctx=keyboard#topic=3421437) 
