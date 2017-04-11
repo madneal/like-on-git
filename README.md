@@ -19,3 +19,6 @@ A collection of links you like.
 
 ### April 8, 2017
 - [Chrome帮助](https://support.google.com/chrome/?p=help&ctx=keyboard#topic=3421437) 
+
+### April 11, 2017
+- [How to automate all the things with Gulp – Hacker Noon](https://hackernoon.com/how-to-automate-all-the-things-with-gulp-b21a3fc96885) 
