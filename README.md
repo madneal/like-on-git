@@ -22,3 +22,6 @@ A collection of links you like.
 
 ### April 11, 2017
 - [How to automate all the things with Gulp – Hacker Noon](https://hackernoon.com/how-to-automate-all-the-things-with-gulp-b21a3fc96885) 
+
+### April 17, 2017
+- [Git Tutorial - Try Git](https://try.github.io/levels/1/challenges/25) 
