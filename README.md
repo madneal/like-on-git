@@ -25,3 +25,6 @@ A collection of links you like.
 
 ### April 17, 2017
 - [Git Tutorial - Try Git](https://try.github.io/levels/1/challenges/25) 
+
+### April 18, 2017
+- [Learn Vuex by Building a Notes App | coligo](https://coligo.io/learn-vuex-by-building-notes-app/) 
