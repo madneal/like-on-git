@@ -28,3 +28,6 @@ A collection of links you like.
 
 ### April 18, 2017
 - [Learn Vuex by Building a Notes App | coligo](https://coligo.io/learn-vuex-by-building-notes-app/) 
+
+### April 20, 2017
+- [Git Tutorial - Try Git](https://try.github.io/levels/1/challenges/25) 
