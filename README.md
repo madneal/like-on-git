@@ -31,3 +31,4 @@ A collection of links you like.
 
 ### April 20, 2017
 - [Git Tutorial - Try Git](https://try.github.io/levels/1/challenges/25) 
+- [Git Tutorial - Try Git](https://try.github.io/levels/1/challenges/25) 
