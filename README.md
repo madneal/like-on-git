@@ -38,3 +38,4 @@ A collection of links you like.
 ### April 21, 2017
 - [API](https://googlechrome.github.io/sw-toolbox/api.html#main) 
 - [GoogleChrome/sw-toolbox: A collection of service worker tools for offlining runtime requests](https://github.com/googlechrome/sw-toolbox) 
+- [App Shell 模型  |  Web  |  Google Developers](https://developers.google.com/web/fundamentals/architecture/app-shell) 
