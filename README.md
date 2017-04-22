@@ -44,3 +44,4 @@ A collection of links you like.
 ### April 22, 2017
 - [Building the Google I/O 2016 Progressive Web App  |  Web  |  Google Developers](https://developers.google.com/web/showcase/2016/iowa2016) 
 - [Using sw-precache and sw-toolbox  |  Web  |  Google Developers](https://developers.google.com/web/ilt/pwa/using-sw-precache-and-sw-toolbox#integrating_sw-precache_into_a_gulp_build_system) 
+- [Blog - JakeArchibald.com](https://jakearchibald.com/) 
