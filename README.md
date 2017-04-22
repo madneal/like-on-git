@@ -45,3 +45,4 @@ A collection of links you like.
 - [Building the Google I/O 2016 Progressive Web App  |  Web  |  Google Developers](https://developers.google.com/web/showcase/2016/iowa2016) 
 - [Using sw-precache and sw-toolbox  |  Web  |  Google Developers](https://developers.google.com/web/ilt/pwa/using-sw-precache-and-sw-toolbox#integrating_sw-precache_into_a_gulp_build_system) 
 - [Blog - JakeArchibald.com](https://jakearchibald.com/) 
+- [ServiceWorker/explainer.md at master · w3c/ServiceWorker](https://github.com/w3c/ServiceWorker/blob/master/explainer.md) 
