@@ -46,3 +46,6 @@ A collection of links you like.
 - [Using sw-precache and sw-toolbox  |  Web  |  Google Developers](https://developers.google.com/web/ilt/pwa/using-sw-precache-and-sw-toolbox#integrating_sw-precache_into_a_gulp_build_system) 
 - [Blog - JakeArchibald.com](https://jakearchibald.com/) 
 - [ServiceWorker/explainer.md at master · w3c/ServiceWorker](https://github.com/w3c/ServiceWorker/blob/master/explainer.md) 
+
+### April 23, 2017
+- [如何优雅地合并多个 Commit · Issue #13 · Jisuanke/tech-exp](https://github.com/Jisuanke/tech-exp/issues/13) 
