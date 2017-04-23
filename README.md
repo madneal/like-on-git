@@ -49,3 +49,4 @@ A collection of links you like.
 
 ### April 23, 2017
 - [如何优雅地合并多个 Commit · Issue #13 · Jisuanke/tech-exp](https://github.com/Jisuanke/tech-exp/issues/13) 
+- [更新Github fork后的项目代码](http://www.jackpu.com/geng-xin-github-forkhou-de-xiang-mu-dai-ma/) 
