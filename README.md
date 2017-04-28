@@ -61,3 +61,4 @@ A collection of links you like.
 
 ### April 28, 2017
 - [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/) 
+- [Snap.svg - Home](http://snapsvg.io/) 
