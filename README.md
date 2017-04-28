@@ -58,3 +58,6 @@ A collection of links you like.
 
 ### April 26, 2017
 - [PWA Directory](https://pwa-directory.appspot.com/) 
+
+### April 28, 2017
+- [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/) 
