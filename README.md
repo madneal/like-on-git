@@ -63,3 +63,6 @@ A collection of links you like.
 - [SVGOMG - SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/) 
 - [Snap.svg - Home](http://snapsvg.io/) 
 - [Online SVG image converter](http://image.online-convert.com/convert-to-svg) 
+
+### April 29, 2017
+- [Graphic Design Tutorials By Canva](https://designschool.canva.com/tutorials/) 
