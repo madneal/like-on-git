@@ -67,3 +67,4 @@ A collection of links you like.
 ### April 29, 2017
 - [Graphic Design Tutorials By Canva](https://designschool.canva.com/tutorials/) 
 - [All Your Designs – Canva](https://www.canva.com/) 
+- [Trending Free Stock Photos - StockSnap.io](https://stocksnap.io/view-photos/sort/trending/desc) 
