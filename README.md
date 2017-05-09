@@ -72,3 +72,6 @@ A collection of links you like.
 ### May 2, 2017
 - [前端收藏夹](http://collect.w3ctrain.com/) 
 - [我的职业是前端工程师 –](http://ued.party/) 
+
+### May 9, 2017
+- [A progressive Web application with Vue JS, Webpack & Material Design [Part 1]](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402) 
