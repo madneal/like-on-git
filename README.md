@@ -75,3 +75,6 @@ A collection of links you like.
 
 ### May 9, 2017
 - [A progressive Web application with Vue JS, Webpack & Material Design [Part 1]](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402) 
+
+### May 12, 2017
+- [HcySunYang's Blog](http://hcysun.me/) 
