@@ -78,3 +78,4 @@ A collection of links you like.
 
 ### May 12, 2017
 - [HcySunYang's Blog](http://hcysun.me/) 
+- [how to write a plugin · webpack/docs Wiki](https://github.com/webpack/docs/wiki/how-to-write-a-plugin) 
