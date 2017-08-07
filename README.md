@@ -85,3 +85,4 @@ A collection of links you like.
 
 ### August 7, 2017 
 - [Centos7上安装与配置Elastic Stack | 《Linux就该这么学》](http://www.linuxprobe.com/elastic-stack-conf-install.html) 
+- [如何在 CentOS 7 上安装 Elastic Stack-技术 ◆ 学习|Linux.中国-开源社区](https://linux.cn/article-8460-1.html) 
