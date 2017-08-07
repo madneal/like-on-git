@@ -82,3 +82,6 @@ A collection of links you like.
 
 ### May 21, 2017
 - [iconmonstr - Free simple icons for your next project](https://iconmonstr.com/) 
+
+### August 7, 2017 
+- [Centos7上安装与配置Elastic Stack | 《Linux就该这么学》](http://www.linuxprobe.com/elastic-stack-conf-install.html) 
