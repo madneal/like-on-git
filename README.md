@@ -4,18 +4,10 @@ A collection of links you like.
 
 ### April 5, 2017
 - [like-on-git/widget.js at master · Idnan/like-on-git](https://github.com/Idnan/like-on-git/blob/master/scripts/widget.js) 
-- [活动行 - 精彩城市生活，尽在活动行！方便发布活动_接受报名_售票付款_在线购票_快速签到_手机验票_活动管理](http://www.huodongxing.com/) 
-- [我的活动行_精彩城市生活，尽在活动行！！](http://www.huodongxing.com/user/regevents) 
-- [我的活动行_精彩城市生活，尽在活动行！！](http://www.huodongxing.com/user/regevents) 
-- [like-on-git/widget.js at master · Idnan/like-on-git](https://github.com/Idnan/like-on-git/blob/master/scripts/widget.js) 
 - [TMS](http://tmsqa.weikayun.com/cas/login?service=http%3A%2F%2Ftmsqa.weikayun.com%3A80%2Fwls_prs_sps%2F) 
 
 ### April 6, 2017
 - [Transport 30 free icons (SVG, EPS, PSD, PNG files)](http://www.flaticon.com/packs/transport-9) 
-
-### April 7, 2017
-- [Options | Like on Git](chrome-extension://fbkngleiiccokoifohhjhlagkejlphkj/options.html) 
-- [扩展程序](chrome://extensions/) 
 
 ### April 8, 2017
 - [Chrome帮助](https://support.google.com/chrome/?p=help&ctx=keyboard#topic=3421437) 
@@ -53,8 +45,6 @@ A collection of links you like.
 
 ### April 25, 2017
 - [【优秀网页设计】优秀网页设计微信公众帐号_优秀网页设计最新文章 - 传送门](http://chuansong.me/account/youshege) 
-- [【优秀网页设计】优秀网页设计微信公众帐号_优秀网页设计最新文章 - 传送门](http://chuansong.me/account/youshege?start=648) 
-- [neal1991 (Neal Caffery)](https://github.com/neal1991) 
 
 ### April 26, 2017
 - [PWA Directory](https://pwa-directory.appspot.com/) 
