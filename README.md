@@ -80,3 +80,4 @@ A collection of links you like.
 
 ### August 13, 2017 
 - [Mathcha](https://www.mathcha.io/editor) 
+- [Blog Author Zachary Tong | Elastic](https://www.elastic.co/blog/author/zachary-tong) 
