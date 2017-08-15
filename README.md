@@ -84,3 +84,4 @@ A collection of links you like.
 
 ### August 15, 2017 
 - [asp.net - Search Engine - Lucene or Solr - Stack Overflow](https://stackoverflow.com/questions/1400892/search-engine-lucene-or-solr) 
+- [实战 Lucene，第 1 部分: 初识 Lucene](https://www.ibm.com/developerworks/cn/java/j-lo-lucene1/index.html) 
