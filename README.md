@@ -81,3 +81,6 @@ A collection of links you like.
 ### August 13, 2017 
 - [Mathcha](https://www.mathcha.io/editor) 
 - [Blog Author Zachary Tong | Elastic](https://www.elastic.co/blog/author/zachary-tong) 
+
+### August 15, 2017 
+- [asp.net - Search Engine - Lucene or Solr - Stack Overflow](https://stackoverflow.com/questions/1400892/search-engine-lucene-or-solr) 
