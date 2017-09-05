@@ -96,3 +96,6 @@ A collection of links you like.
 - [Github-emoji](https://wscats.github.io/github-emoji/public/index.html) 
 - [IKVM.NET Home Page](http://www.ikvm.net/) 
 - [小程序地图](http://blog.csdn.net/songsong189/article/details/69391248)
+
+### September 5, 2017 
+- [centOS 下搭建自己的git服务器 - 个人文章 - SegmentFault](https://segmentfault.com/a/1190000010087483) 
