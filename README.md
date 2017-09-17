@@ -102,3 +102,6 @@ A collection of links you like.
 
 ### September 9, 2017 
 - [常用 Java Profiling 工具的分析与比较](https://www.ibm.com/developerworks/cn/java/j-lo-profiling/index.html) 
+
+### September 17, 2017 
+- [Introduction to D3 - YouTube](https://www.youtube.com/watch?v=8jvoTV54nXw) 
