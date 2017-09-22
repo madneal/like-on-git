@@ -107,3 +107,6 @@ A collection of links you like.
 
 ### September 17, 2017 
 - [Introduction to D3 - YouTube](https://www.youtube.com/watch?v=8jvoTV54nXw) 
+
+### September 22, 2017 
+- [Java Code Example org.apache.commons.compress.archivers.sevenz.SevenZFile](https://www.programcreek.com/java-api-examples/index.php?api=org.apache.commons.compress.archivers.sevenz.SevenZFile) 
